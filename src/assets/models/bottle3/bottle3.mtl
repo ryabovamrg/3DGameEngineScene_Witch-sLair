@@ -1,0 +1,12 @@
+# Blender MTL File: 'bottles.blend'
+# Material Count: 1
+
+newmtl BottleMaterial1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.114105 0.140762 0.167945
+Ks 0.910959 0.910959 0.910959
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2

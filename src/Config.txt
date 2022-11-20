@@ -1,0 +1,11 @@
+MainCameraPosition   0.0 0.0 0.0
+MainCameraRotation   -0.026 0.602 0
+
+1stCameraPosition   -43.9457 6.30986 4.55308
+1stCameraRotation   -0.323 -0.531 0
+
+2ndCameraPosition   24.9213 -2.57582 1.41465
+2ndCameraRotation    0.195 1.72 0
+
+windowWidth         1020
+windowHeight        850

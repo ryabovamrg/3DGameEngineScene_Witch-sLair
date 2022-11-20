@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PGR_GAME_ENGINE", "PGR_GAME_ENGINE.vcxproj", "{9D2317BC-46E8-42C1-93D7-F558DF12ED7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D2317BC-46E8-42C1-93D7-F558DF12ED7F}.Debug|x64.ActiveCfg = Debug|x64
+		{9D2317BC-46E8-42C1-93D7-F558DF12ED7F}.Debug|x64.Build.0 = Debug|x64
+		{9D2317BC-46E8-42C1-93D7-F558DF12ED7F}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D2317BC-46E8-42C1-93D7-F558DF12ED7F}.Debug|x86.Build.0 = Debug|Win32
+		{9D2317BC-46E8-42C1-93D7-F558DF12ED7F}.Release|x64.ActiveCfg = Release|x64
+		{9D2317BC-46E8-42C1-93D7-F558DF12ED7F}.Release|x64.Build.0 = Release|x64
+		{9D2317BC-46E8-42C1-93D7-F558DF12ED7F}.Release|x86.ActiveCfg = Release|Win32
+		{9D2317BC-46E8-42C1-93D7-F558DF12ED7F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02718DE2-F0DE-4864-848D-37DA2553CF1E}
+	EndGlobalSection
+EndGlobal
